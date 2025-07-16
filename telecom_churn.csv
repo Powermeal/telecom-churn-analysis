@@ -1,0 +1,4 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,Churn
+7590-VHVEG,Female,0,Yes,No,1,No,DSL,Month-to-month,29.85,29.85,Yes
+5575-GNVDE,Male,0,No,No,34,Yes,Fiber optic,One year,56.95,1889.5,No
+3668-QPYBK,Male,0,No,No,2,Yes,Fiber optic,Month-to-month,53.85,108.15,Yes
